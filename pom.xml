@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.etherum</groupId>
 	<artifactId>ether</artifactId>
-	<version>0.0.5</version>
+	<version>0.0.6</version>
 	<name>ether</name>
 	<description>ether project for Spring Boot</description>
 	<properties>
