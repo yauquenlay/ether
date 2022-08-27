@@ -1,1 +1,1 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.etherum.ether.Web3JConfig
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.etherum.ether.Web3JConfig,com.etherum.ether.InfuraConfig
